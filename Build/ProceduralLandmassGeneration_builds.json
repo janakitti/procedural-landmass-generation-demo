@@ -1,0 +1,16 @@
+{
+"companyName": "janakitti",
+"productName": "ProceduralLandmassGeneration",
+"productVersion": "0.1",
+"dataUrl": "ProceduralLandmassGeneration_builds.data.unityweb",
+"wasmCodeUrl": "ProceduralLandmassGeneration_builds.wasm.code.unityweb",
+"wasmFrameworkUrl": "ProceduralLandmassGeneration_builds.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
